@@ -1,0 +1,27 @@
+_repo: The-Dawn-Patrol-and-other-poems-of-an-aviator_35996
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bewsher, Paul
+    birthdate: 1894
+    deathdate: 1966
+    gutenberg_agent_id: '38020'
+    url: http://www.gutenberg.org/2009/agents/38020
+description: ''
+gutenberg_issued: '2011-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35996'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- !lcsh 'Aeronautics -- Poetry'
+- !lcc 'PR'
+title: The Dawn Patrol, and other poems of an aviator
+url: http://www.gutenberg.org/ebooks/35996
